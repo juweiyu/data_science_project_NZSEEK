@@ -1,6 +1,6 @@
-# data_science_project_NZSEEK
-
 ![alt text](https://github.com/juweiyu/data_science_project_NZSEEK/blob/main/images/nzseek_logo.jpg)
+
+# data_science_project_NZSEEK
 
 This project...
 
