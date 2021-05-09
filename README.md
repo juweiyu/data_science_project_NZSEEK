@@ -6,6 +6,12 @@
 
 ## Packages
 
+## What we did
+
+#### Cleaned data
+#### Notebooks
+#### A job code reference table
+
 ## Project highlights
 
 
