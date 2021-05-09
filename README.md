@@ -14,4 +14,7 @@
 
 ## Project highlights
 
+![alt text](https://github.com/juweiyu/data_science_project_NZSEEK/blob/main/images/highlights.jpg)
+
+
 
