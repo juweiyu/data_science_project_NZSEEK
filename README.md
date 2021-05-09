@@ -1,13 +1,11 @@
 ![alt text](https://github.com/juweiyu/data_science_project_NZSEEK/blob/main/images/nzseek_logo.jpg)
 
-# data_science_project_NZSEEK
+# NZ Seek Data Visualisation
 
-This project...
+## NZ seek dataset
 
-Raw data...
+## Packages
 
-packages..
+## Project highlights
 
-what we did
 
-the results
