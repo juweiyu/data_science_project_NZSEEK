@@ -2,7 +2,10 @@
 
 # NZ Seek Data Visualisation
 
-## NZ seek dataset
+## NZ seek datasets
+Our NZ seek raw datasets include newly released admin jobs, banking jobs, and CEO jobs across New Zealand. They can be found in https://github.com/juweiyu/data_science_project_NZSEEK/tree/main/data%20source/raw%20data.
+
+The raw dataset is irregulated and imcomplete, and hence it requires data preprocessing. Cleaned datasets can be found in  https://github.com/juweiyu/data_science_project_NZSEEK/tree/main/data%20source/cleaned%20data.
 
 ## Packages
 
