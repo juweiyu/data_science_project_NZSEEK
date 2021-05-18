@@ -29,7 +29,7 @@ https://github.com/juweiyu/data_science_project_NZSEEK/blob/main/notebooks/refer
 
 ![alt text](https://github.com/juweiyu/data_science_project_NZSEEK/blob/main/images/highlights.jpg)
 
-## XGBOOST
+## Regression result with XGBoost
 We use the XGBoost regressor [1] to perform regression on our dataset, where it is trained in Google Colaboratory. The result shown below demonstrates a promising performance. 
 
 ![alt text](https://github.com/juweiyu/data_science_project_NZSEEK/blob/main/images/result_boost.png)
