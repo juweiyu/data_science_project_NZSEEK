@@ -19,7 +19,7 @@ https://github.com/juweiyu/data_science_project_NZSEEK/blob/main/notebooks/02_sp
 https://github.com/juweiyu/data_science_project_NZSEEK/blob/main/notebooks/03_data_visualisation.ipynb
 
 #### Regression
-..
+https://github.com/juweiyu/data_science_project_NZSEEK/blob/main/notebooks/04_regression.ipynb
 
 
 #### A reference table
