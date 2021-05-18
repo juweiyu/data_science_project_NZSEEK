@@ -16,7 +16,7 @@ https://github.com/juweiyu/data_science_project_NZSEEK/blob/main/notebooks/02_sp
 
 
 #### Data visualisation
-..
+https://github.com/juweiyu/data_science_project_NZSEEK/blob/main/notebooks/03_data_visualisation.ipynb
 
 #### Regression
 ..
@@ -30,7 +30,7 @@ https://github.com/juweiyu/data_science_project_NZSEEK/blob/main/notebooks/refer
 ![alt text](https://github.com/juweiyu/data_science_project_NZSEEK/blob/main/images/highlights.jpg)
 
 ## XGBOOST
-We use the XGBoost regressor [1] to perform regression on our dataset. The result demonstrates a promising performance. 
+We use the XGBoost regressor [1] to perform regression on our dataset, where it is trained in Google Colaboratory. The result shown below demonstrates a promising performance. 
 
 ![alt text](https://github.com/juweiyu/data_science_project_NZSEEK/blob/main/images/result_boost.png)
 
